@@ -9,7 +9,7 @@ public class Lesson_2 {
 		System.out.println("Sum = " + result);
 	}
 	
-		public static int ReadNumber() {
+		public static int readNumber() {
 
 			Scanner sc = new Scanner(System.in);
 			System.out.println("¬ведите число: ");
